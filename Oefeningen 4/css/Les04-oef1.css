@@ -1,0 +1,36 @@
+:root {
+  --tm-blue: #03283b;
+  --tm-orange: #ff6434;
+}
+
+hr{
+    border-color:  var(--tm-blue);
+}
+
+#entiteit{
+    border: solid 1px gray;
+    border-collapse: collapse;
+    align-items: center;
+}
+
+th{
+    padding: 15px;
+    background-color: var(--tm-blue);
+    color: white;
+}
+
+caption{
+    caption-side: bottom;
+    margin-top: 5px;
+}
+
+tr{
+    text-align: center;
+    border: solid 1px gray;
+}
+
+td{
+    text-align: center;
+    border: solid 1px gray;
+    padding: 15px;
+}

@@ -1,0 +1,45 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table{
+    border: solid 3px;
+    border-collapse: collapse;
+}
+caption{
+    font-style: bold;
+}
+tr{
+    height: 50px;
+    margin: 4px;
+    text-align: center;
+}
+ th{
+    border: solid 1px;
+    margin: 4px;
+ }
+
+ td{
+    border: solid 1px;
+    margin: 4px;
+ }
+
+  .topr{
+    background-color: rgb(173, 173, 173);
+  }
+
+  .green{
+    background-color: rgb(106, 255, 106);
+  }
+
+  .red{
+    background: rgb(197, 30, 30);
+  }
+
+  .c1{
+    width: 200px;
+  }
+
+  .c2{
+    width: 100px;
+  }
